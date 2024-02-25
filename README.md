@@ -18,3 +18,4 @@
 3. [Is Subsequence](https://github.com/Manas12Singh/LeetStat/blob/main/392.IsSubsequence.cpp)
 4. [Two Sum II - Input Array Is Sorted](https://github.com/Manas12Singh/LeetStat/blob/main/167.TwoSumII-InputArrayIsSorted.cpp)
 5. [Minimum Size Subarray Sum](https://github.com/Manas12Singh/LeetStat/blob/main/209.MinimumSizeSubarraySum.cpp)
+6. [Ransom Note](https://github.com/Manas12Singh/LeetStat/blob/main/383.RansomNote.cpp)
