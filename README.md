@@ -11,3 +11,6 @@
 
 ## Date: 24-02-2024
 1. [Find All People With Secret](https://github.com/Manas12Singh/LeetStat/blob/main/2092.FindAllPeopleWithSecret.cpp)
+
+## Date: 25-02-2024
+1. [Product of Array Except Self](https://github.com/Manas12Singh/LeetStat/blob/main/238.ProductofArrayExceptSelf.cpp)
