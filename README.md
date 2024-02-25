@@ -16,3 +16,4 @@
 1. [Product of Array Except Self](https://github.com/Manas12Singh/LeetStat/blob/main/238.ProductofArrayExceptSelf.cpp)
 2. [Reverse Words in a String](https://github.com/Manas12Singh/LeetStat/blob/main/151.ReverseWordsinaString.cpp)
 3. [Is Subsequence](https://github.com/Manas12Singh/LeetStat/blob/main/392.IsSubsequence.cpp)
+4. [Two Sum II - Input Array Is Sorted](https://github.com/Manas12Singh/LeetStat/blob/main/167.TwoSumII-InputArrayIsSorted.cpp)
