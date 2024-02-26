@@ -27,3 +27,6 @@
 2. [Min Stack](https://github.com/Manas12Singh/LeetStat/blob/main/155.MinStack.cpp)
 3. [Basic Calculator](https://github.com/Manas12Singh/LeetStat/blob/main/224.BasicCalculator.cpp)
 4. [Sum Root to Leaf Numbers](https://github.com/Manas12Singh/LeetStat/blob/main/129.SumRoottoLeafNumbers.cpp)
+
+## Date: 27-02-2024
+1. [Maximum Number of Vowels in a Substring of Given Length](https://github.com/Manas12Singh/LeetStat/blob/main/1456.MaximumNumberofVowelsinaSubstringofGivenLength.cpp)
