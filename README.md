@@ -22,6 +22,6 @@
 7. [Increasing Triplet Subsequence](https://github.com/Manas12Singh/LeetStat/blob/main/334.IncreasingTripletSubsequence.cpp)
 8. [Max Number of K-Sum Pairs](https://github.com/Manas12Singh/LeetStat/blob/main/1679.MaxNumberofK-SumPairs.cpp)
 
-## Date: 26-04-2024
+## Date: 26-02-2024
 1. [Same Tree](https://github.com/Manas12Singh/LeetStat/blob/main/100.SameTree.cpp)
 2. [Min Stack](https://github.com/Manas12Singh/LeetStat/blob/main/155.MinStack.cpp)
