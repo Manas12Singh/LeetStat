@@ -30,3 +30,4 @@
 
 ## Date: 27-02-2024
 1. [Maximum Number of Vowels in a Substring of Given Length](https://github.com/Manas12Singh/LeetStat/blob/main/1456.MaximumNumberofVowelsinaSubstringofGivenLength.cpp)
+2. [Find the Highest Altitude](https://github.com/Manas12Singh/LeetStat/blob/main/1732.FindtheHighestAltitude.cpp)
