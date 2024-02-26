@@ -24,3 +24,4 @@
 
 ## Date: 26-04-2024
 1. [Same Tree](https://github.com/Manas12Singh/LeetStat/blob/main/100.SameTree.cpp)
+2. [Min Stack](https://github.com/Manas12Singh/LeetStat/blob/main/155.MinStack.cpp)
