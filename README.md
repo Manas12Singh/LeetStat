@@ -34,3 +34,4 @@
 3. [Diameter of Binary Tree](https://github.com/Manas12Singh/LeetStat/blob/main/543.DiameterofBinaryTree.cpp)
 4. [Single Number II](https://github.com/Manas12Singh/LeetStat/blob/main/137.SingleNumberII.cpp)
 5. [Binary Tree Maximum Path Sum](https://github.com/Manas12Singh/LeetStat/blob/main/124.BinaryTreeMaximumPathSum.cpp)
+6. [Longest Univalue Path](https://github.com/Manas12Singh/LeetStat/blob/main/687.LongestUnivaluePath.cpp)
