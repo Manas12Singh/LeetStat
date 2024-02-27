@@ -33,3 +33,4 @@
 2. [Find the Highest Altitude](https://github.com/Manas12Singh/LeetStat/blob/main/1732.FindtheHighestAltitude.cpp)
 3. [Diameter of Binary Tree](https://github.com/Manas12Singh/LeetStat/blob/main/543.DiameterofBinaryTree.cpp)
 4. [Single Number II](https://github.com/Manas12Singh/LeetStat/blob/main/137.SingleNumberII.cpp)
+5. [Binary Tree Maximum Path Sum](https://github.com/Manas12Singh/LeetStat/blob/main/124.BinaryTreeMaximumPathSum.cpp)
