@@ -36,3 +36,4 @@
 5. [Binary Tree Maximum Path Sum](https://github.com/Manas12Singh/LeetStat/blob/main/124.BinaryTreeMaximumPathSum.cpp)
 6. [Longest Univalue Path](https://github.com/Manas12Singh/LeetStat/blob/main/687.LongestUnivaluePath.cpp)
 7. [Path Sum II](https://github.com/Manas12Singh/LeetStat/blob/main/113.PathSumII.cpp)
+8. [Longest Subarray of 1's After Deleting One Element](https://github.com/Manas12Singh/LeetStat/blob/main/1493.LongestSubarrayof1'sAfterDeletingOneElement.cpp)
