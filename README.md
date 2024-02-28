@@ -40,3 +40,4 @@
 
 ## Date: 28-02-2024
 1. [Find Bottom Left Tree Value](https://github.com/Manas12Singh/LeetStat/blob/main/513.FindBottomLeftTreeValue.cpp)
+2. [Gray Code](https://github.com/Manas12Singh/LeetStat/blob/main/89.GrayCode.cpp)
