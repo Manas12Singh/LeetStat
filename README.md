@@ -44,3 +44,4 @@
 
 ## Date: 29-02-2024
 1. [Even Odd Tree](https://github.com/Manas12Singh/LeetStat/blob/main/1609.EvenOddTree.cpp)
+2. [Unique Paths](https://github.com/Manas12Singh/LeetStat/blob/main/62.UniquePaths.cpp)
