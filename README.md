@@ -46,3 +46,6 @@
 1. [Even Odd Tree](https://github.com/Manas12Singh/LeetStat/blob/main/1609.EvenOddTree.cpp)
 2. [Unique Paths](https://github.com/Manas12Singh/LeetStat/blob/main/62.UniquePaths.cpp)
 3. [Unique Paths II](https://github.com/Manas12Singh/LeetStat/blob/main/63.UniquePathsII.cpp)
+
+## Date: 01-03-2024
+1. [Maximum Odd Binary Number](https://github.com/Manas12Singh/LeetStat/blob/main/2864.MaximumOddBinaryNumber.cpp)
