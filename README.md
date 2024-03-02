@@ -49,3 +49,6 @@
 
 ## Date: 01-03-2024
 1. [Maximum Odd Binary Number](https://github.com/Manas12Singh/LeetStat/blob/main/2864.MaximumOddBinaryNumber.cpp)
+
+## Date: 02-03-2024
+2. [Squares of a Sorted Array](https://github.com/Manas12Singh/LeetStat/blob/main/977.SquaresofaSortedArray.cpp)
