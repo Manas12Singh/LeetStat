@@ -59,3 +59,6 @@
 
 ## Date: 04-03-2024
 1. [Bag of Tokens](https://github.com/Manas12Singh/LeetStat/blob/main/948.BagofTokens.cpp)
+
+## Date: 05-03-2024
+1. [Minimum Length of String After Deleting Similar Ends](https://github.com/Manas12Singh/LeetStat/blob/main/1750.MinimumLengthofStringAfterDeletingSimilarEnds.cpp)
