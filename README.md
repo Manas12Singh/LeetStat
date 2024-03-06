@@ -62,3 +62,6 @@
 
 ## Date: 05-03-2024
 1. [Minimum Length of String After Deleting Similar Ends](https://github.com/Manas12Singh/LeetStat/blob/main/1750.MinimumLengthofStringAfterDeletingSimilarEnds.cpp)
+
+## Date: 06-03-2024
+1. [Linked List Cycle](https://github.com/Manas12Singh/LeetStat/blob/main/141.LinkedListCycle.cpp)
