@@ -65,3 +65,4 @@
 
 ## Date: 06-03-2024
 1. [Linked List Cycle](https://github.com/Manas12Singh/LeetStat/blob/main/141.LinkedListCycle.cpp)
+2. [Happy Number](https://github.com/Manas12Singh/LeetStat/blob/main/202.HappyNumber.cpp)
