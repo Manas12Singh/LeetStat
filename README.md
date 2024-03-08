@@ -70,3 +70,6 @@
 
 ## Date: 07-03-2024
 1. [Next Permutation](https://github.com/Manas12Singh/LeetStat/blob/main/31.NextPermutation.cpp)
+
+## Date: 08-03-2024
+1. [Robot Return to Origin](https://github.com/Manas12Singh/LeetStat/blob/main/657.RobotReturntoOrigin.cpp)
