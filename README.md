@@ -76,3 +76,4 @@
 
 ## Date: 09-03-2024
 1. [Minimum Common Value](https://github.com/Manas12Singh/LeetStat/blob/main/2540.MinimumCommonValue.cpp)
+2. [Flatten Binary Tree to Linked List](https://github.com/Manas12Singh/LeetStat/blob/main/114.FlattenBinaryTreetoLinkedList.cpp)
