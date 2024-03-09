@@ -73,3 +73,6 @@
 
 ## Date: 08-03-2024
 1. [Robot Return to Origin](https://github.com/Manas12Singh/LeetStat/blob/main/657.RobotReturntoOrigin.cpp)
+
+## Date: 09-03-2024
+1. [Minimum Common Value](https://github.com/Manas12Singh/LeetStat/blob/main/2540.MinimumCommonValue.cpp)
